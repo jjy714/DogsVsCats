@@ -1,2 +1,2 @@
-# VoiceRecognition
-Voice Recognition Deep Learning Project 
+# Dogs vs Cats 
+Dogs vs Cats Deep Learning Project 
